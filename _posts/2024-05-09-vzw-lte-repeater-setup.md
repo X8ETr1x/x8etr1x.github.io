@@ -9,7 +9,7 @@ Yes, I know Wi-Fi calling is a thing. I like redundancy.
 #### Physical Location
 - Install the GPS antenna as high up as you can outside to ensure the best signal.
 - Try to install the repeater as centrally as you can in the areas you want serviced.
-- These devices aren't PoE. I mean, IK guess why would they be. That would only be convenient. Make sure you have a 120 volt receptacle handy.
+- These devices aren't PoE. I mean, I guess why would they be. That would only be convenient. Make sure you have a 120 volt receptacle handy.
 
 #### Network
 
