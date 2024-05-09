@@ -259,7 +259,7 @@ If you like unnecessary IPv6 noise on your networks, then boy is this the right 
 
 ![image](https://github.com/X8ETr1x/x8etr1x.github.io/assets/58610446/20121d8e-a1a6-49c8-b99d-a07549b4c330)
 
-I definitely notice numerous initial failures to establish the VPn tunnel with no request from the server, but eventually after a few failures it receives a response.
+I notice numerous initial failures to establish the VPN tunnel with no request from the server, but eventually after a few failures it receives a response.
 
 - The device initiates a request with IKEv2 using AES-CBC-128 for encryption, HMAC-SHA1-96 for integrity, HMAC-SHA1 for PRF, and Diffie-Hllman group 4.
 - Key exchange uses MODP group 2.
