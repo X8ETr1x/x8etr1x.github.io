@@ -7,22 +7,22 @@ Yes, I know Wi-Fi calling is a thing. I like redundancy.
 ### Setup 
 
 #### Physical Location
-- Install the GPS antenna as high up as you can outside to ensure the best signal.
-- Try to install the repeater as centrally as you can in the areas you want serviced.
-- These devices aren't PoE. I mean, I guess why would they be. That would only be convenient. Make sure you have a 120 volt receptacle handy.
+- Install the GPS antenna as high up as possible outside to ensure the best signal.
+- Try to install the repeater as centrally as possible in the desired service areas.
+- These devices aren't PoE. I mean, I guess why would they be. That would only be convenient. Make sure there's a 120 volt receptacle handy.
 
 #### Network
 
 *One note is that the appliance will not accept traffic from a VLAN other than its own.*
 
-- Since this is a Verizon appliance, you'll want to create a new VLAN an segment it from anything else on your network.
-- Ensure that you have DHCP services enabled. You can set a static IP after the fact if you want to.
+- Since this is a Verizon appliance, it's recommended to create a new VLAN and segment it from anything else on the network.
+- Ensure that DHCP services are enabled on the VLAN. A static IP can be set after the fact if desired.
 
 #### Firewall Rules
 
 ##### DNS
 
-Create a rule to your desired DNS server on UDP 53. The appliance will take direction from DHCP.
+Create a rule to the desired DNS server on UDP 53. The appliance will take direction from DHCP.
 
 ##### NTP
 
