@@ -1,4 +1,4 @@
-## Setting Up a Verizon Wireless LTE Repeater
+## Make It Work: Setting Up a Verizon Wireless LTE Repeater
 
 It never fails that anywhere I've lived has had cellular service that is as strong as my will to paint my basement, so I've always had one of these *fantastically reliable* Verizon LTE repeaters kicking around. There's no great single resource for setting one of these up, so here's how you do it.
 
