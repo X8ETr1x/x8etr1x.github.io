@@ -1,6 +1,15 @@
-## Setting Up a Honeywell T10+ Smart Thermostat
+## Make It Work: Setting Up a Honeywell T10+ Smart Thermostat
 
-I don't like IoT, but sometimes the benefits outweigh the risks...if it's done correctly.
+I don't like IoT, but sometimes the benefits outweigh the risks...if it's done correctly. 
+
+The risk of connecting this thing to the Internet are:
+- Risk of breach if Resideo is breached, since it establishes a tunnel between them and the device.
+- Risk of extreme damage to personal property if an attacker is able to bypass temperature bounds. Think frozen pipes, electrical fires, equipment failure, high utility bills, etc.
+
+The risk of not connecting to the Internet:
+- You don't get firmware updates. Resideo does not have a public change log to see when new firmware is available (not that they release it often anyway)
+
+This guide is assuming that you want full functionality. Personally I don't need to look at the furnace thermostat to know the weather forecast.
 
 ### Setup 
 
