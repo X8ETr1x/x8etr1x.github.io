@@ -2,7 +2,7 @@
 
 *Wow, how awesome that "Fastmail" gave me a six month heads up that my bill was due.*
 
-<img width="836" height="612" alt="Screenshot from 2025-09-13 02-49-46" src="../../../images/2025-09-13-fishy-phishy-fastmail-1.png" />
+<img width="836" height="612" alt="Screenshot from 2025-09-13 02-49-46" src="/images/2025-09-13-fishy-phishy-fastmail-1.png" />
 
 
 So I receive a message from Fastmail support. It looks like my payments aren't working and I might lose service! Panic ensues! I must resolve this immediately and disregard all reason! 
@@ -19,11 +19,11 @@ So let's break this down. The attacker is appealing to my emotions. The message 
 
 The first thing I notice are the [email headers](https://datatracker.ietf.org/doc/html/rfc2076), which are what get displayed to me as who it's "from" and who it's to.
 
-<img width="416" height="212" alt="Screenshot from 2025-09-13 03-06-56" src="../../../images/2025-09-13-fishy-phishy-fastmail-2.png" />
+<img width="416" height="212" alt="Screenshot from 2025-09-13 03-06-56" src="/images/2025-09-13-fishy-phishy-fastmail-2.png" />
 
 Apparently the "support team" is haloes@fastmail[.]com...whatever that is.
 
-<img width="435" height="200" alt="Screenshot from 2025-09-13 03-13-37" src="../images/2025-09-13-fishy-phishy-fastmail-3.png" />
+<img width="435" height="200" alt="Screenshot from 2025-09-13 03-13-37" src="/images/2025-09-13-fishy-phishy-fastmail-3.png" />
 
 
 Points of interest:
@@ -35,7 +35,7 @@ Cool, so just check the From header an I'm all good right? *Nope*. That header c
 
 #### Message Body
 
-<img width="795" height="351" alt="Screenshot from 2025-09-13 03-19-06" src="../images/2025-09-13-fishy-phishy-fastmail-4.png" />
+<img width="795" height="351" alt="Screenshot from 2025-09-13 03-19-06" src="/images/2025-09-13-fishy-phishy-fastmail-4.png" />
 
 
 How thoughtful of them to make things *convenient*. Give me convenience or give me death. Couldn't they just as easily have shown me how to access payment information in the email message itself? Why a [PDF](https://www.rfc-editor.org/rfc/rfc8118.html) file?
