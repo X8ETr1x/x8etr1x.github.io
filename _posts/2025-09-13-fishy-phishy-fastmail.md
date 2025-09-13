@@ -2,7 +2,7 @@
 
 *Wow, how awesome that "Fastmail" gave me a six month heads up that my bill was due.*
 
-<img width="836" height="612" alt="Screenshot from 2025-09-13 02-49-46" src="/images/2025-09-13-fishy-phishy-fastmail-1.png" />
+<img alt="Screenshot from 2025-09-13 02-49-46" src="/images/2025-09-13-fishy-phishy-fastmail-1.png" />
 
 
 So I receive a message from Fastmail support. It looks like my payments aren't working and I might lose service! Panic ensues! I must resolve this immediately and disregard all reason! 
