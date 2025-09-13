@@ -2,7 +2,7 @@
 
 *Wow, how awesome that "Fastmail" gave me a six month heads up that my bill was due.*
 
-<img width="836" height="612" alt="Screenshot from 2025-09-13 02-49-46" src="https://github.com/user-attachments/assets/7fdb112a-d235-433a-862a-feaf3dfa0395" />
+<img width="836" height="612" alt="Screenshot from 2025-09-13 02-49-46" src="../images/2025-09-13-fishy-phishy-fastmail-1.png" />
 
 
 So I receive a message from Fastmail support. It looks like my payments aren't working and I might lose service! Panic ensues! I must resolve this immediately and disregard all reason! 
@@ -19,11 +19,11 @@ So let's break this down. The attacker is appealing to my emotions. The message 
 
 The first thing I notice are the [email headers](https://datatracker.ietf.org/doc/html/rfc2076), which are what get displayed to me as who it's "from" and who it's to.
 
-<img width="416" height="212" alt="Screenshot from 2025-09-13 03-06-56" src="https://github.com/user-attachments/assets/422a0470-cfb5-4db0-a666-be8e2d7ba3e5" />
+<img width="416" height="212" alt="Screenshot from 2025-09-13 03-06-56" src="../images/2025-09-13-fishy-phishy-fastmail-2.png" />
 
 Apparently the "support team" is haloes@fastmail[.]com...whatever that is.
 
-<img width="435" height="200" alt="Screenshot from 2025-09-13 03-13-37" src="https://github.com/user-attachments/assets/45336368-f416-4358-b606-56c7dc53f78e" />
+<img width="435" height="200" alt="Screenshot from 2025-09-13 03-13-37" src="../images/2025-09-13-fishy-phishy-fastmail-3.png" />
 
 
 Points of interest:
