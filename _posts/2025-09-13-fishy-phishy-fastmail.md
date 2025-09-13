@@ -72,12 +72,7 @@ Here we can see that it is indeed a Fastmail address, which lines up with the ma
 
 ##### Email Message Authentication
 
-[SPF](https://datatracker.ietf.org/doc/html/rfc7208) is a way that organizations can claim which email servers are allowed to send with their domain.
-
-<img width="1885" height="33" alt="Screenshot from 2025-09-13 03-37-11" src="https://github.com/user-attachments/assets/6f08e8c5-ee08-4a86-828e-5b1424ad681e" />
-
-
-Unfortunately, since this is all internal to Fastmail, this automatically passes. The same goes for [DKIM](https://datatracker.ietf.org/doc/html/rfc6376) (confirms message integrity) and [DMARC](https://datatracker.ietf.org/doc/html/rfc7489) (confirms the sender domain is legitimate).
+[SPF](https://datatracker.ietf.org/doc/html/rfc7208) is a way that organizations can claim which email servers are allowed to send with their domain. Unfortunately, since this is all internal to Fastmail, this automatically passes. The same goes for [DKIM](https://datatracker.ietf.org/doc/html/rfc6376) (confirms message integrity) and [DMARC](https://datatracker.ietf.org/doc/html/rfc7489) (confirms the sender domain is legitimate).
 
 <img width="1897" height="67" alt="Screenshot from 2025-09-13 03-38-49" src="https://github.com/user-attachments/assets/9a9e9fdb-7bc0-4a8a-b9ba-ab05f26ff1c6" />
 
