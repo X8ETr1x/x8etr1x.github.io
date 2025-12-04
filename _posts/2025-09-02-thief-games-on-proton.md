@@ -1,6 +1,6 @@
 ## Make It Work: Playing the Thief Series on Proton
 
-*Nostaliga is a bitch, but I like her sometimes.*
+*Nostalgia is a bitch, but I like her sometimes.*
 
 ![A portrait of Garrett from Thief Gold](/images/thief-gold-key-art-header.png)
 
